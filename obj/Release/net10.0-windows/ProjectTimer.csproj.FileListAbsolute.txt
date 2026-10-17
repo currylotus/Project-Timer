@@ -1,0 +1,25 @@
+C:\Users\Admin\AppData\Local\Temp\opencode\out\ProjectTimer.exe
+C:\Users\Admin\AppData\Local\Temp\opencode\out\ProjectTimer.deps.json
+C:\Users\Admin\AppData\Local\Temp\opencode\out\ProjectTimer.runtimeconfig.json
+C:\Users\Admin\AppData\Local\Temp\opencode\out\ProjectTimer.dll
+C:\Users\Admin\AppData\Local\Temp\opencode\out\ProjectTimer.pdb
+D:\Einfach nur Minecraft\Project Timer\bin\Release\net10.0-windows\ProjectTimer.exe
+D:\Einfach nur Minecraft\Project Timer\bin\Release\net10.0-windows\ProjectTimer.deps.json
+D:\Einfach nur Minecraft\Project Timer\bin\Release\net10.0-windows\ProjectTimer.runtimeconfig.json
+D:\Einfach nur Minecraft\Project Timer\bin\Release\net10.0-windows\ProjectTimer.dll
+D:\Einfach nur Minecraft\Project Timer\bin\Release\net10.0-windows\ProjectTimer.pdb
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\MainWindow.baml
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\App.baml
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\MainWindow.g.cs
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\App.g.cs
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ProjectTimer_MarkupCompile.cache
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ProjectTimer.g.resources
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ProjectTimer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ProjectTimer.AssemblyInfoInputs.cache
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ProjectTimer.AssemblyInfo.cs
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ProjectTimer.csproj.CoreCompileInputs.cache
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ProjectTimer.dll
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\refint\ProjectTimer.dll
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ProjectTimer.pdb
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ProjectTimer.genruntimeconfig.cache
+D:\Einfach nur Minecraft\Project Timer\obj\Release\net10.0-windows\ref\ProjectTimer.dll

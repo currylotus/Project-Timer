@@ -1,0 +1,2 @@
+D:\Einfach nur Minecraft\Project Timer\dist\ProjectTimer.pdb
+D:\Einfach nur Minecraft\Project Timer\dist\ProjectTimer.exe
